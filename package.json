@@ -1,0 +1,25 @@
+{
+  "name": "console-shortcut",
+  "version": "0.1.0",
+  "description": "console shortcut",
+  "main": "console-shortcut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANGET/console-shortcut.git"
+  },
+  "keywords": [
+    "console",
+    "console",
+    "shortcut",
+    "shortcut"
+  ],
+  "author": "SANGET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SANGET/console-shortcut/issues"
+  },
+  "homepage": "https://github.com/SANGET/console-shortcut#readme"
+}
