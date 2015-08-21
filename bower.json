@@ -1,0 +1,21 @@
+{
+  "name": "console-shortcut",
+  "main": "console-shortcut.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/SANGET/console-shortcut",
+  "authors": [
+    "SANGET"
+  ],
+  "description": "Shortcut of javascript's console.",
+  "keywords": [
+    "console"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
